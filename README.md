@@ -1,7 +1,7 @@
 # Ciat-Lonbarde PCB
 
-My Ciat-Lonbarde PCBs I did.
+Ciat-Lonbarde PCBs by Meng Qi.
 
 These circuits were designed by [Peter Blasser](ciat-lonbarde.net).
 
-Use at your own risk.
+You can use it at your own risk.
