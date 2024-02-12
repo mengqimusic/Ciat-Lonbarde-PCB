@@ -1,0 +1,176 @@
+Dogslit - Part List
+
+
+Part List Caveats
+
+This is what Pete said when e-mailing him about the Dogslit:
+"shoot, i should take dogslit plans down from the internet.  i don't recommend
+building it, it is not as easy as the other paper circuits, and it requires some
+informed modding."
+
+All 10uF Elec caps could be 1uF Elec caps as no clarification is given, and the symbol can mean both values depending on the circuit (see Master Legend).
+
+The 10k Potentiometers are assumptions based on the Rollz-5 circuit/instructions. The pots could be different values in this circuit.
+
+
+Dogvoice
+
+ICs:
+1 x TS914
+
+Diodes/Transistors:
+8 x PNP
+26 x NPN
+1 x 1N914
+
+Capacitors:
+8 x .001uF Poly
+10 x .01uF Poly
+6 x .1uF Poly
+3 x 10uF Elec
+
+Resistors:
+8 x 10k Potentiometers
+8 x 470
+4 x 2.2k
+14 x 4.7k
+6 x 10k
+2 x 22k
+4 x 47k
+4 x 100k
+8 x 220k
+6 x 470k
+10 x 1M
+2 x 2.2M
+
+
+Preamp
+
+ICs:
+1 x 358
+
+Diodes/Transistors:
+3 x PNP
+2 x NPN
+1 x 1N914
+
+Capacitors:
+1 x .01uF Poly
+1 x .1uF Poly
+1 x 10uF Elec
+
+Resistors:
+3 x 10k
+2 x 22k
+1 x 47k
+1 x 1M
+1 x 2.2M
+
+
+Anti Preamp
+
+ICs:
+1 x 358
+
+Diodes/Transistors:
+2 x PNP
+3 x NPN
+1 x 1N914
+
+Capacitors:
+1 x .01uF Poly
+1 x .1uF Poly
+1 x 10uF Elec
+
+Resistors:
+3 x 10k
+2 x 22k
+1 x 47k
+1 x 1M
+1 x 2.2M
+
+
+Swoop (4 needed, part totals reflect this)
+
+ICs:
+4 x 358
+
+Diodes/Transistors:
+8 x PNP
+16 x NPN
+20 x 1N914
+
+Capacitors:
+4 x .001uF Poly
+12 x .01uF Poly
+4 x 10uF Elec
+
+Resistors:
+4 x 10k Potentiometer
+4 x 4.7k
+20 x 10k 
+12 x 22k
+4 x 47k
+12 x 100k
+4 x 220k
+16 x 470k
+4 x 2.2M
+
+
+Anti Swoop (4 needed, part totals reflect this)
+
+ICs:
+4 x 358
+
+Diodes/Transistors:
+16 x PNP
+8 x NPN
+20 x 1N914
+
+Capacitors:
+4 x .001uF Poly
+12 x .01uF Poly
+4 x 10uF Elec
+
+Resistors:
+4 x 10k Potentiometer
+4 x 4.7k
+20 x 10k 
+12 x 22k
+4 x 47k
+12 x 100k
+4 x 220k
+20 x 470k
+4 x 2.2M
+
+
+Combined Total Needed for All Circuits
+
+ICs:
+1 x TS914
+10 x 358
+
+Diodes/Transistors:
+37 x PNP
+55 x NPN
+43 x 1N914
+
+Capacitors:
+16 x .001uF Poly
+36 x .01uF Poly
+8 x .1uF Poly
+13 x 10uF Elec
+
+Resistors:
+16 x 10k Potentiometers
+8 x 470
+4 x 2.2k
+22 x 4.7k
+52 x 10k
+30 x 22k
+14 x 47k
+28 x 100k
+16 x 220k
+42 x 470k
+12 x 1M
+12 x 2.2M
